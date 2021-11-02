@@ -1,0 +1,2 @@
+# BDPersonales
+Trabajo practico Mysql
