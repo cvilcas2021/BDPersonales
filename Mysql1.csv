@@ -1,0 +1,6 @@
+id,nombre,apellido,edad,fecha,provincia
+1,Cristhian,Vilcas,40,"2021-11-01 22:15:42",CABA
+2,Roberto,Garcia,30,"2021-11-01 22:15:42",Corrientes
+3,Juan,Rios,25,"2021-11-01 22:15:42",Chaco
+4,Milagros,Ramos,29,"2021-11-01 22:15:42","Santa Fe"
+5,Marina,Castro,45,"2021-11-01 22:15:42",Mendoza
