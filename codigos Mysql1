@@ -1,0 +1,21 @@
+create database colegio;
+use colegio;
+create table alumnos (
+id int(11) not null primary key auto_increment,
+nombre varchar(40) not null,
+apellido varchar(40) not null,
+edad tinyint(2) not null,
+fecha timestamp default current_timestamp,
+provincia varchar(30)
+);
+INSERT INTO alumnos (nombre, apellido, edad, provincia) 
+VALUES 
+("Cristhian", "Vilcas", 40, "CABA"),
+("Roberto", "Garcia", 30, "Corrientes"),
+("Juan", "Rios", 25, "Chaco"),
+("Milagros", "Ramos", 29, "Cordoba"),
+("Marina", "Castro", 40, "San juan");
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
