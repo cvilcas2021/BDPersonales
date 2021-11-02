@@ -13,8 +13,8 @@ VALUES
 ("Cristhian", "Vilcas", 40, "CABA"),
 ("Roberto", "Garcia", 30, "Corrientes"),
 ("Juan", "Rios", 25, "Chaco"),
-("Milagros", "Ramos", 29, "Cordoba"),
-("Marina", "Castro", 40, "San juan");
+("Milagros", "Ramos", 29, "Santa Fe"),
+("Marina", "Castro", 45, "Mendoza");
 © 2021 GitHub, Inc.
 Terms
 Privacy
